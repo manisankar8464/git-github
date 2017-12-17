@@ -1,1 +1,2 @@
-firstbranch file we have created in the git project
+firstbranch file we have created in the git project.modified file in the first branch
+first enter the command 
